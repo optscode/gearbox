@@ -1,4 +1,4 @@
-module github.com/gogearbox/gearbox
+module github.com/optscode/gearbox
 
 go 1.14
 
